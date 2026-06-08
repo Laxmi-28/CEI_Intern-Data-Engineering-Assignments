@@ -13,7 +13,7 @@ The dataset contains **9,994 sales transactions** with details about orders, cus
 ### 1. Data Exploration
 
 * Examined table schema and column data types.
-* Retrieved complete and sample records.
+* Retrieved sample records.
 * Identified unique product categories.
 * Extracted customer names and locations.
 
