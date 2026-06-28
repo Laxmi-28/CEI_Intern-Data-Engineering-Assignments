@@ -10,12 +10,9 @@
 
 ```
 week5-spark-assignment/
-│── data/
 │   └── sales_data.csv           ← Retail sales dataset (510 rows)
-│── notebook/
-│   └── Week5-Assignment.ipynb   ← Main Databricks notebook (all steps + Q&A)
-│── output/
-│   └── results.csv              ← Final pipeline aggregation output
+│   └── Week5-Assignment.ipynb   ← Main Databricks notebook
+│   └── Week5-Answers.docx       ← Question and Answers document
 │── README.md
 ```
 
